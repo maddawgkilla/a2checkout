@@ -1,0 +1,54 @@
+.checkout-container {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-horizontal {
+    padding: 50px 60px 80px 60px;
+    background-color: #fff;
+    box-shadow: 4px 4px 50px #888888;
+    margin-bottom: 50px;
+}
+
+.hidden {
+    display: none;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 10px 0px;
+    border-radius: 15px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+.row {
+    background-color: #fff;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+button {
+    margin-top: 20px;
+    float: right;
+}
+
+.selected {
+    color: white;
+    background-color: #a00c0c;
+    transition: all 1.4s;
+}
+
+.unselected {
+    color: black;
+    background-color: #fff;
+    transition: all 1.4s;
+}
+
+.tabs {
+    padding: 0;
+}
